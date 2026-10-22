@@ -23,7 +23,7 @@ Disclosed on October 20–21, 2026, **PHP2Shell** refers to two critical vulnera
 Clone this repository and run the script on your Linux server:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/php2shell-guard.git
+git clone https://github.com/ThePainter1939/php2shell-guard.git
 cd php2shell-guard
 chmod +x php2shell-guard.sh
 sudo ./php2shell-guard.sh
